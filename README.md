@@ -6,7 +6,7 @@
 
 **ROLL NO:**212224110028
 
-**DEPARTMENT:**B.E(CSE_-[IoT]
+**DEPARTMENT:**B.E(CSE)-[IoT]
 
 ## Aim:
 
